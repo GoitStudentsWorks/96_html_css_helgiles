@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-26/",
+    "build": "vite build --base=/96_html_css_helgiles/",
     "preview": "vite preview"
   },
   "devDependencies": {
